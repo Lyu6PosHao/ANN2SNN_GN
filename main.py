@@ -27,9 +27,9 @@ parser.add_argument('--sn_type', type=str, default='gn')
 parser.add_argument('--tau', type=int, default=4,help='members of one gn or pgn')
 parser.add_argument('--amp', type=bool,default=False, help='use amp on imagenet')
 args = parser.parse_args()
-
+seed_all(args.seed)
 if __name__ == "__main__":
-    # !!!train ANN from scratch, and then convert it to SNN!!!
+    
     # preparing data
     train, test = datapool(args.data, args.bs)
     # preparing model
