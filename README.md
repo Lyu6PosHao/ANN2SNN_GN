@@ -2,7 +2,9 @@
 
 Here is the code for ICASSP 2024 "Optimal ANN-SNN Conversion with Group Neurons".
 
-### Before using GN
+We achieve outstanding accuracy with limited time-steps (e.g. ResNet34 on ImageNet1000: **73.61% when T=2**).
+
+### Before using
 You should install [SpikingJelly](https://github.com/fangwei123456/spikingjelly) first:
 ```
 pip install spikingjelly
@@ -41,7 +43,7 @@ bs=128
 l=8
 data='cifar100'
 model='resnet20'
-id='your checkpoint id'
+id='your ANN checkpoint id'
 mode='ann'
 sn_type='gn'  #'gn' means group neuron; 'if' means IF neuron
 tau=6
@@ -62,4 +64,4 @@ python main.py  test \
     --t=$t \
     --device=$device \
     --seed=$seed
-
+```
