@@ -1,4 +1,4 @@
-<h2 align="center"> <a href="https://arxiv.org/pdf/TBD.pdf"></a>Optimal ANN-SNN Conversion with Group Neurons</h2>
+<h2 align="center"> <a href="https://arxiv.org/pdf/TBD.pdf">Optimal ANN-SNN Conversion with Group Neurons</a></h2>
 
 Here is the official code for ICASSP 2024 "Optimal ANN-SNN Conversion with Group Neurons".
 
