@@ -1,6 +1,4 @@
-# ANN2SNN_GN
-
-Here is the code for ICASSP 2024 "Optimal ANN-SNN Conversion with Group Neurons".
+# ANN2SNN_GN Here is the official code for ICASSP 2024 "Optimal ANN-SNN Conversion with Group Neurons".
 
 We achieve outstanding accuracy with limited time-steps (e.g. ResNet34 on ImageNet1000: **73.61% when T=2**).
 
