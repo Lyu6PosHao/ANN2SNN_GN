@@ -1,4 +1,10 @@
 <h2 align="center"> <a href="https://arxiv.org/pdf/TBD.pdf">Optimal ANN-SNN Conversion with Group Neurons</a></h2>
+<h5 align="center">
+    
+[![arXiv](https://img.shields.io/badge/Arxiv-TBD-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/tbd)<br>
+
+</h5>
+
 Here is the official code for ICASSP 2024 "Optimal ANN-SNN Conversion with Group Neurons".
 
 We achieve outstanding accuracy with limited time-steps (e.g. ResNet34 on ImageNet1000: **73.61% when T=2**).
