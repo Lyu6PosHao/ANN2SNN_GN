@@ -1,7 +1,7 @@
 <h2 align="center"> <a href="https://arxiv.org/pdf/TBD.pdf">Optimal ANN-SNN Conversion with Group Neurons</a></h2>
 <h5 align="center">
     
-[![arXiv](https://img.shields.io/badge/Arxiv-TBD-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2402.19061)<br>
+[![arXiv](https://img.shields.io/badge/Arxiv-2402.19061-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2402.19061)<br>
 
 </h5>
 
